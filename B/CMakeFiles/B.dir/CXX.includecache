@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/let4ik/tp_3/B/lib.cpp
+lib.h
+/Users/let4ik/tp_3/B/lib.h
+
+/Users/let4ik/tp_3/B/lib.h
+
