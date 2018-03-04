@@ -1,6 +1,0 @@
-/Users/let4ik/tp_3/CMakeFiles/rebuild_cache.dir
-/Users/let4ik/tp_3/CMakeFiles/edit_cache.dir
-/Users/let4ik/tp_3/CMakeFiles/pro.dir
-/Users/let4ik/tp_3/B/CMakeFiles/rebuild_cache.dir
-/Users/let4ik/tp_3/B/CMakeFiles/edit_cache.dir
-/Users/let4ik/tp_3/B/CMakeFiles/B.dir
